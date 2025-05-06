@@ -61,7 +61,7 @@
   max-width: 515px;
   font-size: 20px;
   line-height: 30px;
-  margin-top: 0;
+  margin: 32px 0 0;
 }
 
 .header__image {
@@ -117,12 +117,12 @@
   max-width: 760px;
   width: 100%;
   display: flex;
-  margin: auto;
-  margin-top: 68px;
+  margin: 68px auto 0;
   flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: center;
   gap: 40px;
   list-style-type: none;
+  padding: 0;
 }
 
 .card {
