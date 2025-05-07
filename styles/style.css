@@ -351,7 +351,7 @@
   display: flex;
 }
 
-.footer_column-info {
+.footer_column {
   display: flex;
   gap: 80px;
 }
